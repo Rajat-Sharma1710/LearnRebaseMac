@@ -1,4 +1,11 @@
 This is the first working file in LearnRebaseMac repository
+<<<<<<< HEAD
 Main branch First Commit -> This change is in the main branch and an additional commit in the main branch
 
 Main branch Second Commit -> This change is in the main branch and an additional second commit in the main branch
+=======
+
+
+
+Feature first commit change -> This change is for the feature branch and the first commit for the independent feature branch
+>>>>>>> 914b14c (feature branch first bug fix)
